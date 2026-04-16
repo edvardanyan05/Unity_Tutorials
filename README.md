@@ -32,7 +32,7 @@ This project demonstrates:
 
 You can try the project directly in your browser:
 
-[Download Game](https://play.unity.com/en/games/a750e72a-5eef-4554-9f69-32250f159439/get-started-with-unity)
+[Try The Game](https://play.unity.com/en/games/a750e72a-5eef-4554-9f69-32250f159439/get-started-with-unity)
 
 ## What I Learned
 
